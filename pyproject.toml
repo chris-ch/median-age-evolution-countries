@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "test-1"
+name = "median-age-evolution-countries"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Christophe <christophe.alexandre@pm.me>"]
 
 [tool.poetry.dependencies]
-python = ">=3.9.0"
+python = ">=3.10.0"
 
 # these were available in legacy repls. might be helpful to add
 # glfw = "2.2.0"
